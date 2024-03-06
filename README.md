@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @agustin-ferreiro
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Python to strengthen my analysis in Power BI.
 - 📫 How to reach me: agustin.ferreiro@infracommerce.lat
 
 <!---
